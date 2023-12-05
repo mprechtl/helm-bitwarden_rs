@@ -22,11 +22,6 @@ bitwarden:
   # # See: https://github.com/dani-garcia/bitwarden_rs#configure-server-administrator
   # server_admin_email: admin@example.com
 
-  # # Websocket support for notifications
-  # # See: https://github.com/dani-garcia/bitwarden_rs#enabling-websocket-notifications
-  websocket_enabled: true
-  websocket_port: 3012
-
   # # Needed for U2F authentification
   # # See: https://github.com/dani-garcia/bitwarden_rs#enabling-u2f-authentication
   # # TODO: Not supported currently
